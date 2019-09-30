@@ -1,0 +1,15 @@
+E:\Venn\Venn\bin\Debug\Venn.exe.config
+E:\Venn\Venn\bin\Debug\Venn.exe
+E:\Venn\Venn\bin\Debug\Venn.pdb
+E:\Venn\Venn\obj\Debug\Venn.csproj.ResolveComReference.cache
+E:\Venn\Venn\obj\Debug\Venn.Form1.resources
+E:\Venn\Venn\obj\Debug\Venn.Properties.Resources.resources
+E:\Venn\Venn\obj\Debug\Venn.Venn2Set.resources
+E:\Venn\Venn\obj\Debug\Venn.Venn3Set.resources
+E:\Venn\Venn\obj\Debug\Venn.csproj.GenerateResource.cache
+E:\Venn\Venn\obj\Debug\Venn.csproj.CoreCompileInputs.cache
+E:\Venn\Venn\obj\Debug\Venn.exe
+E:\Venn\Venn\obj\Debug\Venn.pdb
+E:\Venn\Venn\obj\Debug\Venn.Venn4Set.resources
+E:\Venn\Venn\obj\Debug\Venn.csprojAssemblyReference.cache
+E:\Venn\Venn\obj\Debug\Venn.Venn5Set.resources
